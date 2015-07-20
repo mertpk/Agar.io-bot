@@ -3,7 +3,7 @@
 // @namespace   AposLauncher
 // @include     http://agar.io/*
 // @version     3.052
-// @grant       none
+// @grant       noneot
 // @author      http://www.twitch.tv/apostolique
 // ==/UserScript==
 
@@ -1297,7 +1297,7 @@ console.log("Running Bot Launcher!");
                 dArc = [],
                 dText = [],
                 lines = [],
-                names = ["NotReallyABot"],
+                names = ["Plast!kman"],
                 originalName = names[Math.floor(Math.random() * names.length)],
                 sessionScore = 0,
                 serverIP = "",
